@@ -1,0 +1,5 @@
+
+
+# Result type for Rescript
+
+

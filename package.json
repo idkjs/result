@@ -1,0 +1,19 @@
+{
+  "name": "result",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+    "description": "The result type for rescript",
+  "scripts": {
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript",
+    "Rescript"
+  ],
+  "dependencies": {
+    "bs-platform": "^8.4.2"
+  }
+}
